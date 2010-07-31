@@ -1,3 +1,10 @@
+== master
+
+* 1 minor improvement
+  * email links now visit the url, rather than just the path, this allows for features that
+    make use of the domain to function correctly
+
+
 == 0.3.1
 
 * 1 major improvement
